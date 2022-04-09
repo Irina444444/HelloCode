@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\bin\Debug\net6.0\Example005_IfCondition.exe
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\bin\Debug\net6.0\Example005_IfCondition.deps.json
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\bin\Debug\net6.0\Example005_IfCondition.runtimeconfig.json
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\bin\Debug\net6.0\Example005_IfCondition.dll
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\bin\Debug\net6.0\Example005_IfCondition.pdb
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.dll
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\refint\Example005_IfCondition.dll
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.pdb
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\Example005_IfCondition.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Examples\Example005_IfCondition\obj\Debug\net6.0\ref\Example005_IfCondition.dll
